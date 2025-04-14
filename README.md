@@ -35,9 +35,7 @@ mdTools是一个基于Python语言编写的多功能开源工具库，旨在提�
 
 ## 安装方法
 
-```bash
-pip install mdTools
-```
+暂时`没有`安装方法(windows种pypi上传时`无法输入api`所导致，如有知道解决方法的且想帮助我的请联系`3257053519@qq.com`)
 
 ## 使用示例
 
@@ -70,16 +68,6 @@ tool.md_screenshot(0, 0, 800, 600, "screenshot.png")
 
 - Python >= 3.6
 - 操作系统：Windows/Linux/MacOS
-
-## 依赖包
-
-- pillow
-- pyperclip
-- keyboard
-- mouse
-- pywin32 (Windows)
-- xdotool (Linux)
-- pyobjc-framework-Quartz (MacOS)
 
 ## 许可证
 

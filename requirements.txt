@@ -1,0 +1,2 @@
+# 没错mdTools暂时没有依赖库，使用的是Python的内置库实现！
+#That's right, mdTools currently does not have any dependency libraries and is implemented using Python's built-in libraries!

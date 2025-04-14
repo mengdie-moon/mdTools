@@ -35,9 +35,7 @@ The library contains four main modules(Not updated yet):
 
 ## Installation
 
-```bash
-pip install mdTools
-```
+There is currently no installation method available (due to the inability to input API when uploading Pypi on Windows). If anyone knows a solution and wants to help me, please contact me` 3257053519@qq.com `)
 
 ## Usage Example
 
@@ -70,16 +68,6 @@ tool.md_screenshot(0, 0, 800, 600, "screenshot.png")
 
 - Python >= 3.6
 - Operating System: Windows/Linux/MacOS
-
-## Dependencies
-
-- pillow
-- pyperclip
-- keyboard
-- mouse
-- pywin32 (Windows)
-- xdotool (Linux)
-- pyobjc-framework-Quartz (MacOS)
 
 ## License
 
